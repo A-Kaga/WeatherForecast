@@ -7,8 +7,8 @@ import requests
 
 
 #csv_location = 'C:/Users/dell/Desktop/Python Leraning/Scraping/Forecast/cityidloc-20180625.csv'
-token = 'XtV5xcpNkwmut9Xe'
-location = '119.141099,33.502869'
+token = 'your token'
+location = 'your location'
 
 
 class ColourfulCloud(object):
