@@ -1,4 +1,6 @@
 # WeatherForecast
+### 进展
+2018
 ### 简介
 python的练手项目，通过调用彩云天气的API(https://dashboard.caiyunapp.com/user/sign_in/), 结合IFFTTT，以实现以下功能：
 
