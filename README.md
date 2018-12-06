@@ -1,12 +1,12 @@
 # WeatherForecast
-![image](WeatherForecast/images/colourful_cloud.png)  
+![image](http://github.com/WeatherForecast/images/colourful_cloud.png)  
 感谢彩云天气提供的服务（此处应有logo）
 ### 进展
 2018/12/3 项目开始  
 2018/12/4 重构原有代码，框架大体完成  
 2018/12/6 主体功能已实现，示意图见下：  
-![image](WeatherForecast/images/test_pc.png)  
-![image](WeatherForecast/images/test_phone.png) 
+![image](http://github.com/WeatherForecast/images/test_pc.png)  
+![image](http://github.com/WeatherForecast/images/test_phone.png) 
 ### 简介
 python的练手项目，通过调用彩云天气的API(https://dashboard.caiyunapp.com/user/sign_in/), 结合IFFTTT，以实现以下功能：
 
